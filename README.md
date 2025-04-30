@@ -24,7 +24,7 @@ Achieved an overall classification accuracy of **83%**.
 
 ---
 
-## How to Run 🏃‍♂️
+## How to Run 
 
 ### 1. Environment Setup
 Install required Python libraries:
